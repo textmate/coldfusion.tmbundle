@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>GetBaseTagData(${1:tagname} ${:[, instancenumber ]})$0</string>
+	<string>GetBaseTagData(${1:tagname} ${2:[, instancenumber ]})$0</string>
 	<key>name</key>
 	<string>getbasetagdata</string>
 	<key>scope</key>

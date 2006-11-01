@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Decrypt(${1:encrypted_string}, ${2:key} ${3:[, algorithm]} ${4:[, encoding]} ${5:[, IVorSalt]} ${6:[, iterations]})$0</string>
+	<string>Decrypt(${1:encrypted_string}, ${2:key}${3: [, algorithm]}${4: [, encoding]}${5: [, IVorSalt]}${6: [, iterations]})$0</string>
 	<key>name</key>
 	<string>decrypt</string>
 	<key>scope</key>

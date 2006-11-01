@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FormatBaseN(${1:number}, ${:radix})$0</string>
+	<string>FormatBaseN(${1:number}, ${2:radix})$0</string>
 	<key>name</key>
 	<string>formatbasen</string>
 	<key>scope</key>

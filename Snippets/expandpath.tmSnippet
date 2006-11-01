@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Exp(${1:relative_path})$0</string>
+	<string>Expandpath(${1:relative_path})$0</string>
 	<key>name</key>
 	<string>expandpath</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>DateConvert(${1:"conversion-type"}, $2{:"date"})$0</string>
+	<string>DateConvert(${1:"conversion-type"}, ${2:"date"})$0</string>
 	<key>name</key>
 	<string>dateconvert</string>
 	<key>scope</key>

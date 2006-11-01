@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Find(${1:substring}, ${:string} ${:[, start ]})$0</string>
+	<string>Find(${1:substring}, ${2:string} ${3:[, start ]})$0</string>
 	<key>name</key>
 	<string>find</string>
 	<key>scope</key>

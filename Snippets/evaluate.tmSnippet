@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Evaluate(${1:string_expression1} ${:[, string_expression2} ${:[, Ö ] ] })$0</string>
+	<string>Evaluate(${1:string_expression1}${2: [, string_expression2]}${3: [, ]})$0</string>
 	<key>name</key>
 	<string>evaluate</string>
 	<key>scope</key>
