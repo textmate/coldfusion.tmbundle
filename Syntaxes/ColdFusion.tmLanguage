@@ -8,16 +8,6 @@
 		<string>cfml</string>
 		<string>cfc</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(?x)
-		(&lt;(?i:head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl|cfloop|cfif|cfswitch|cfcomponent)\b.*?&gt;
-		|&lt;!---(?!.*---\s*&gt;)
-		)</string>
-	<key>foldingStopMarker</key>
-	<string>(?x)
-		(&lt;/(?i:head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl|cfloop|cfif|cfswitch|cfcomponent)&gt;
-		|^(?!.*?&lt;!---).*?---\s*&gt;
-		)</string>
 	<key>keyEquivalent</key>
 	<string>^~C</string>
 	<key>name</key>
