@@ -2,6 +2,18 @@
 
 You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
 
+You can also install this bundle from the command line by typing
+
+````mate coldfusion.tmbundle```` 
+
+where your coldfusion.tmbundle file is at.
+
+If you want to copy directly into TextMate Bundles folder, you can copy the coldfusion.tmbundle under, more likely,
+
+````Macintosh HD --> Library --> Application Support --> TextMate --> Bundles````
+
+Simply copy coldfusion.tmbundle to Bundles folder, and either reload bundles or restart your TextMate.
+
 # General
 
 * [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
