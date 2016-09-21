@@ -482,10 +482,6 @@
 				</dict>
 				<dict>
 					<key>include</key>
-					<string>source.cfml</string>
-				</dict>
-				<dict>
-					<key>include</key>
 					<string>#tag-stuff</string>
 				</dict>
 			</array>
